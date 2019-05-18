@@ -15,7 +15,7 @@ def shipping_manifest
    
  }
 
-return shipping_manifest
+return the_manifest
 
 end
 
